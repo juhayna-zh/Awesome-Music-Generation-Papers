@@ -1,0 +1,86 @@
+# Awesome Music Generation Papers 🎵
+
+![Awesome](https://awesome.re/badge.svg)
+
+Curated list of groundbreaking music generation research.
+
+### Text-to-Music Generation 📄➡🎸
+
+- InspireMusic: Integrating Super Resolution and Large Language Model for High-Fidelity Long-Form Music Generation [2025] [Alibaba] [[Paper](https://arxiv.org/pdf/2503.00084)] [[Code](https://github.com/FunAudioLLM/InspireMusic)] [[Demo](https://funaudiollm.github.io/inspiremusic/)]
+
+- *MusicGen* Simple and Controllable Music Generation [2024] [Meta] [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/94b472a1842cd7c56dcb125fb2765fbd-Paper-Conference.pdf)] [[Code](https://github.com/facebookresearch/audiocraft)]
+
+- MusicLM: Generating Music From Text [2023] [Google] [[Paper](https://arxiv.org/pdf/2301.11325)]
+
+
+### Lyrics-to-Song Generation 📜➡🎶
+
+- ACE-Step: A Step Towards Music Generation Foundation Model
+[2025] [[GitHub](https://github.com/ace-step/ACE-Step)]
+
+- YuE: Scaling Open Foundation Models for Long-Form Music Generation [2025] [m-a-p] [[Paper](https://arxiv.org/pdf/2503.08638)] [[Code](https://github.com/multimodal-art-projection/YuE)] [[Demo](https://map-yue.github.io/) ]
+
+- DiffRhythm: Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion [2025] [ASLP-lab] [[Paper](https://arxiv.org/pdf/2503.01183)] [[Code](https://github.com/ASLP-lab/DiffRhythm)] [[Demo](https://nzqian.github.io/DiffRhythm/)] [[HuggingFace](https://huggingface.co/spaces/ASLP-lab/DiffRhythm)]
+
+- SongCreator: Lyrics-based Universal Song Generation [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/92a7a03e1c716970848a4a86cc8243ee-Paper-Conference.pdf)] [[Demo](https://thuhcsi.github.io/SongCreator/)]
+
+- SongEditor: Adapting Zero-Shot Song Generation Language Model as a Multi-Task Editor [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34750/36905)] [[Demo](https://cypress-yang.github.io/SongEditor_demo/)]
+
+### Controllable Music Generation ⚙️
+
+- Editing Music with Melody and Text: Using ControlNet for Diffusion Transformer [2024] [ICASSP] [[Paper](https://arxiv.org/pdf/2410.05151)]
+
+- Music ControlNet: Multiple Time-Varying Controls for Music Generation [2024] [[Demo](https://musiccontrolnet.github.io/web/)]
+
+- Instruct-MusicGen: Unlocking Text-to-Music Editing for Music Language Models via Instruction Tuning [2024] [[Paper](https://arxiv.org/pdf/2405.18386)]
+
+- MusiConGen: Rhythm and Chord Control for Transformer-Based Text-to-Music Generation [2024] [[Demo](https://musicongen.github.io/musicongen_demo/)]
+
+### Singing Accompaniment Generation (SAG) 🎤➡🎸
+
+- FastSAG: towards fast non-autoregressive singing accompaniment generation [2024] [[Paper](https://arxiv.org/pdf/2405.07682)] [[Code](https://github.com/chenjianyi/fastsag)]
+
+- SingSong: Generating musical accompaniments from singing [2023] [Google] [[Paper](https://arxiv.org/pdf/2301.12662)]
+
+### Lyrics-to-Melody Generation (L2M) 📜➡🎼
+
+- CSL-L2M: Controllable Song-Level Lyric-to-Melody Generation Based on Conditional Transformer with Fine-Grained Lyric and Musical Controls [2025] [AAAI] [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/34523/36678) [[Code]](https://github.com/LiChaiUSTC/CSL-L2M) [[Demo]](https://lichaiustc.github.io/CSL-L2M/)
+
+- SongComposer: A large language model for lyric and melody composition in song generation [2024] [[Paper](https://arxiv.org/pdf/2402.17645)] [[GitHub](https://github.com/pjlab-songcomposer/songcomposer)]
+
+### Text-to-Symbolic Music Generation 📄➡🎼
+
+
+- NotaGen: Advancing Musicality in Symbolic Music Generation with Large Language Model Training Paradigms  [2025] [Tsinghua] [[Paper](https://arxiv.org/pdf/2502.18008)] [[Code](https://github.com/ElectricAlexis/NotaGen)] [[Demo](https://electricalexis.github.io/notagen-demo/) ]
+
+- Mupt: A generative symbolic music pretrained transformer [2024] [m-a-p] [[Paper](https://arxiv.org/pdf/2404.06393)] [[Demo](https://map-mupt.github.io/)]
+
+### Music SSL & Encoder & Codec 🎶➡🔢
+
+- MuQ: Self-supervised music representation learning with mel residual vector quantization [2025] [Tencent] [[Code]](https://github.com/tencent-ailab/MuQ)
+
+- *MusicFM* A foundation model for music informatics [2024]  [[Paper](https://arxiv.org/pdf/2311.03318)] [[Code](https://github.com/minzwon/musicfm)]
+
+- MERT: Acoustic music understanding model with large-scale self-supervised training [2023] [m-a-p] [[Paper](https://arxiv.org/pdf/2306.00107)] [[GitHub](https://github.com/yizhilll/MERT)]
+
+
+### Music Transcription 🎶➡🎼
+
+- YourMT3+: Multi-Instrument Music Transcription with Enhanced Transformer Architectures and Cross-Dataset STEM Augmentation [2024] [[Paper](https://arxiv.org/pdf/2407.04822)] [[GitHub](https://github.com/mimbres/YourMT3)]
+
+- *Perceiver TF* Multitrack music transcription with a time-frequency perceiver [2023] [ByteDance] [ICASSP] [[Paper](https://arxiv.org/pdf/2306.10785)]
+
+- MT3: Multi-task multitrack music transcription [2021] [[Paper](https://arxiv.org/pdf/2111.03017)]
+
+### Music Evaluation Metrics 📏
+
+- SongEval: A Benchmark Dataset for Song Aesthetics Evaluation [2025] [ASLP-lab] [[Paper](https://arxiv.org/pdf/2505.10793)] [[GitHub](https://github.com/ASLP-lab/SongEval)] [[Dataset](https://huggingface.co/datasets/ASLP-lab/SongEval)]
+
+- MusicEval: A Generative Music Corpus with Expert Ratings for Automatic Text-to-Music Evaluation [2025] [AISHELL] [[Paper](https://arxiv.org/pdf/2501.10811)] [[Dataset](https://www.aishelltech.com/AISHELL_7A)]
+
+- Frechet Music Distance: A Metric For Generative Symbolic Music Evaluation [2024] [[Paper](https://arxiv.org/pdf/2412.07948)] [[GitHub](https://github.com/jryban/frechet-music-distance)]
+
+
+### Dataset & Benchmark 📊
+
+- Marble: Music audio representation benchmark for universal evaluation [2023] [m-a-p] [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/7cbeec46f979618beafb4f46d8f39f36-Paper-Datasets_and_Benchmarks.pdf)] [[GitHub](https://github.com/a43992899/MARBLE-Benchmark)]
