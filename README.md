@@ -89,6 +89,6 @@ Curated list of groundbreaking music generation research.
 
 - FMA: A Dataset For Music Analysis [[GitHub]](https://github.com/mdeff/fma) [100K tracks]
 
-### Website & Products 
+### Website & Products 🌐
 - **Lamucal** - Real-time audio to chords, lyrics, beat, and melody with Hybrid-Net [[Web](https://lamucal.com/)] [[GitHub](https://github.com/DoMusic/Hybrid-Net)]
 - **Dango.ai** - Any instruments separation and vocals extraction [[Web](https://tuanziai.com/)]
