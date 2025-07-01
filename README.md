@@ -17,6 +17,10 @@ Curated list of groundbreaking music generation research.
 
 ### Lyrics-to-Song Generation 📜➡🎶
 
+- LeVo: High-Quality Song Generation with Multi-Preference Alignment [2025] [Tencent] [[Paper](https://arxiv.org/pdf/2506.07520)] [[GitHub](https://github.com/tencent-ailab/songgeneration/)] [[Demo](https://levo-demo.github.io/)]
+
+- SongBloom: Coherent Song Generation via Interleaved Autoregressive Sketching and Diffusion Refinement [2025] [CUHK-Shenzhen] [[Paper](https://arxiv.org/pdf/2506.07634)] [[Demo](https://cypress-yang.github.io/SongBloom_demo/)] [[GitHub](https://github.com/Cypress-Yang/SongBloom)]
+
 - ACE-Step: A Step Towards Music Generation Foundation Model
 [2025] [[GitHub](https://github.com/ace-step/ACE-Step)]
 
@@ -29,6 +33,8 @@ Curated list of groundbreaking music generation research.
 - SongEditor: Adapting Zero-Shot Song Generation Language Model as a Multi-Task Editor [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34750/36905)] [[Demo](https://cypress-yang.github.io/SongEditor_demo/)]
 
 ### Controllable Music Generation ⚙️
+
+- MuseControlLite: Multifunctional Music Generation with Lightweight Conditioners [2025] [[Paper](https://arxiv.org/pdf/2506.18729)]
 
 - Editing Music with Melody and Text: Using ControlNet for Diffusion Transformer [2024] [ICASSP] [[Paper](https://arxiv.org/pdf/2410.05151)]
 
