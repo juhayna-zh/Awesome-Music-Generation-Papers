@@ -80,6 +80,14 @@ Curated list of groundbreaking music generation research.
 
 - MT3: Multi-task multitrack music transcription [2021] [[Paper](https://arxiv.org/pdf/2111.03017)]
 
+### Music Source Separation 🎶➡🎹🎸🥁
+
+- SCNet: Sparse compression network for music source separation [2025] [ICASSP] [[Paper](https://arxiv.org/pdf/2401.13276)]
+
+- Music source separation with band-split rope transformer [2024] [ICASSP] [[Paper](https://arxiv.org/pdf/2309.02612)]
+
+- Music source separation with band-split RNN [2023] [TASLP] [[Paper](https://arxiv.org/pdf/2209.15174)]
+
 ### Music Evaluation Metrics 📏
 
 - SongEval: A Benchmark Dataset for Song Aesthetics Evaluation [2025] [ASLP-lab] [[Paper](https://arxiv.org/pdf/2505.10793)] [[GitHub](https://github.com/ASLP-lab/SongEval)] [[Dataset](https://huggingface.co/datasets/ASLP-lab/SongEval)]
