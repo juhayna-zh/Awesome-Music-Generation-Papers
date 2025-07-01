@@ -8,6 +8,8 @@ Curated list of groundbreaking music generation research.
 
 - InspireMusic: Integrating Super Resolution and Large Language Model for High-Fidelity Long-Form Music Generation [2025] [Alibaba] [[Paper](https://arxiv.org/pdf/2503.00084)] [[Code](https://github.com/FunAudioLLM/InspireMusic)] [[Demo](https://funaudiollm.github.io/inspiremusic/)]
 
+- *FluxMusic* FLUX that Plays Music [2024] [Skywork] [[Paper](https://arxiv.org/pdf/2409.00587)] [[Code](https://github.com/feizc/FluxMusic)]
+
 - *MusicGen* Simple and Controllable Music Generation [2024] [Meta] [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/94b472a1842cd7c56dcb125fb2765fbd-Paper-Conference.pdf)] [[Code](https://github.com/facebookresearch/audiocraft)]
 
 - MusicLM: Generating Music From Text [2023] [Google] [[Paper](https://arxiv.org/pdf/2301.11325)]
@@ -84,3 +86,9 @@ Curated list of groundbreaking music generation research.
 ### Dataset & Benchmark 📊
 
 - Marble: Music audio representation benchmark for universal evaluation [2023] [m-a-p] [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/7cbeec46f979618beafb4f46d8f39f36-Paper-Datasets_and_Benchmarks.pdf)] [[GitHub](https://github.com/a43992899/MARBLE-Benchmark)]
+
+- FMA: A Dataset For Music Analysis [[GitHub]](https://github.com/mdeff/fma) [100K tracks]
+
+### Website & Products 
+- **Lamucal** - Real-time audio to chords, lyrics, beat, and melody with Hybrid-Net [[Web](https://lamucal.com/)] [[GitHub](https://github.com/DoMusic/Hybrid-Net)]
+- **Dango.ai** - Any instruments separation and vocals extraction [[Web](https://tuanziai.com/)]
