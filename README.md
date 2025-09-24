@@ -101,6 +101,8 @@ Curated list of groundbreaking music generation research.
 
 - Marble: Music audio representation benchmark for universal evaluation [2023] [m-a-p] [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/7cbeec46f979618beafb4f46d8f39f36-Paper-Datasets_and_Benchmarks.pdf)] [[GitHub](https://github.com/a43992899/MARBLE-Benchmark)]
 
+- CHORDONOMICON: A Dataset of 666,000 Songs and their Chord Progressions [2024] [[Paper](https://arxiv.org/abs/2410.22046)]
+
 - FMA: A Dataset For Music Analysis [[GitHub]](https://github.com/mdeff/fma) [100K tracks]
 
 ### Website & Products 🌐
