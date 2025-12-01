@@ -36,7 +36,7 @@ Curated list of groundbreaking music generation research.
 
 - SongEditor: Adapting Zero-Shot Song Generation Language Model as a Multi-Task Editor [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34750/36905)] [[Demo](https://cypress-yang.github.io/SongEditor_demo/)]
 
-### Controllable Music Generation ⚙️
+### Controllable Music Generation & Editing ⚙️
 
 - MuseControlLite: Multifunctional Music Generation with Lightweight Conditioners [2025] [[Paper](https://arxiv.org/pdf/2506.18729)]
 
@@ -47,6 +47,10 @@ Curated list of groundbreaking music generation research.
 - Instruct-MusicGen: Unlocking Text-to-Music Editing for Music Language Models via Instruction Tuning [2024] [[Paper](https://arxiv.org/pdf/2405.18386)]
 
 - MusiConGen: Rhythm and Chord Control for Transformer-Based Text-to-Music Generation [2024] [[Demo](https://musicongen.github.io/musicongen_demo/)]
+
+- MusicMagus: Zero-Shot Text-to-Music Editing via Diffusion Models [2024] [[Paper](https://arxiv.org/abs/2402.06178)]
+
+- MelodyEdit: Zero-shot Music Editing with Disentangled Inversion Control [2025] [[Paper](https://dl.acm.org/doi/10.1145/3746027.3755377)]
 
 ### Singing Voice Synthesis (SVS) 🎼➡🎤
 
@@ -86,6 +90,8 @@ Curated list of groundbreaking music generation research.
 - *MusicFM* A foundation model for music informatics [2024]  [[Paper](https://arxiv.org/pdf/2311.03318)] [[Code](https://github.com/minzwon/musicfm)]
 
 - MERT: Acoustic music understanding model with large-scale self-supervised training [2023] [m-a-p] [[Paper](https://arxiv.org/pdf/2306.00107)] [[GitHub](https://github.com/yizhilll/MERT)]
+
+- Mucodec: Ultra low-bitrate music codec [2024] [Tencent] [[Paper](https://arxiv.org/abs/2402.06178)]
 
 
 ### Music Transcription 🎶➡🎼
