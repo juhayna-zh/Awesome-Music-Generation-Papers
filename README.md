@@ -6,13 +6,17 @@ Curated list of groundbreaking music generation research.
 
 ### Text-to-Music Generation 📄➡🎸
 
-- InspireMusic: Integrating Super Resolution and Large Language Model for High-Fidelity Long-Form Music Generation [2025] [Alibaba] [[Paper](https://arxiv.org/pdf/2503.00084)] [[Code](https://github.com/FunAudioLLM/InspireMusic)] [[Demo](https://funaudiollm.github.io/inspiremusic/)]
-
-- *FluxMusic* FLUX that Plays Music [2024] [Skywork] [[Paper](https://arxiv.org/pdf/2409.00587)] [[Code](https://github.com/feizc/FluxMusic)]
 
 - *MusicGen* Simple and Controllable Music Generation [2024] [Meta] [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/94b472a1842cd7c56dcb125fb2765fbd-Paper-Conference.pdf)] [[Code](https://github.com/facebookresearch/audiocraft)]
 
 - MusicLM: Generating Music From Text [2023] [Google] [[Paper](https://arxiv.org/pdf/2301.11325)]
+
+
+- InspireMusic: Integrating Super Resolution and Large Language Model for High-Fidelity Long-Form Music Generation [2025] [Alibaba] [[Paper](https://arxiv.org/pdf/2503.00084)] [[Code](https://github.com/FunAudioLLM/InspireMusic)] [[Demo](https://funaudiollm.github.io/inspiremusic/)]
+
+- *FluxMusic* FLUX that Plays Music [2024] [Skywork] [[Paper](https://arxiv.org/pdf/2409.00587)] [[Code](https://github.com/feizc/FluxMusic)]
+
+- *Magenta RT* Live Music Models [2025 [Google] [[Paper](https://arxiv.org/abs/2508.04651)]
 
 
 ### Lyrics-to-Song Generation 📜➡🎶
@@ -44,11 +48,23 @@ Curated list of groundbreaking music generation research.
 
 - MusiConGen: Rhythm and Chord Control for Transformer-Based Text-to-Music Generation [2024] [[Demo](https://musicongen.github.io/musicongen_demo/)]
 
+### Singing Voice Synthesis (SVS) 🎼➡🎤
+
+- DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism [2021] [[Paper](https://arxiv.org/abs/2105.02446)] [[Code](https://github.com/MoonInTheRiver/DiffSinger)]
+
+- VISinger 2: High-Fidelity End-to-End Singing Voice Synthesis Enhanced by Digital Signal Processing Synthesizer [2022] [[Paper](https://arxiv.org/abs/2211.02903)] [[Code](https://github.com/zhangyongmao/VISinger2)]
+
+- TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control [2024] [[Paper](https://arxiv.org/abs/2409.15977)] [[Code](https://github.com/AaronZ345/TCSinger)]
+
+- TCSinger 2: Customizable Multilingual Zero-shot Singing Voice Synthesis [2025] [[Paper](https://arxiv.org/abs/2505.14910)]
+
 ### Singing Accompaniment Generation (SAG) 🎤➡🎸
 
 - FastSAG: towards fast non-autoregressive singing accompaniment generation [2024] [[Paper](https://arxiv.org/pdf/2405.07682)] [[Code](https://github.com/chenjianyi/fastsag)]
 
 - SingSong: Generating musical accompaniments from singing [2023] [Google] [[Paper](https://arxiv.org/pdf/2301.12662)]
+
+- Streaming Generation for Music Accompaniment [2025] [MIT] [[Paper](https://arxiv.org/pdf/2510.22105)]
 
 ### Lyrics-to-Melody Generation (L2M) 📜➡🎼
 
