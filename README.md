@@ -21,6 +21,8 @@ Curated list of groundbreaking music generation research.
 
 ### Lyrics-to-Song Generation 📜➡🎶
 
+- Muse: Towards Reproducible Long-Form Song Generation with Fine-Grained Style Control [2026] [FudanNLP] [[Paper](https://arxiv.org/abs/2601.03973)] [[GitHub](https://github.com/yuhui1038/Muse)]
+
 - LeVo: High-Quality Song Generation with Multi-Preference Alignment [2025] [Tencent] [[Paper](https://arxiv.org/pdf/2506.07520)] [[GitHub](https://github.com/tencent-ailab/songgeneration/)] [[Demo](https://levo-demo.github.io/)]
 
 - SongBloom: Coherent Song Generation via Interleaved Autoregressive Sketching and Diffusion Refinement [2025] [CUHK-Shenzhen] [[Paper](https://arxiv.org/pdf/2506.07634)] [[Demo](https://cypress-yang.github.io/SongBloom_demo/)] [[GitHub](https://github.com/Cypress-Yang/SongBloom)]
