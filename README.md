@@ -132,3 +132,6 @@ Curated list of groundbreaking music generation research.
 ### Website & Products 🌐
 - **Lamucal** - Real-time audio to chords, lyrics, beat, and melody with Hybrid-Net [[Web](https://lamucal.com/)] [[GitHub](https://github.com/DoMusic/Hybrid-Net)]
 - **Dango.ai** - Any instruments separation and vocals extraction [[Web](https://tuanziai.com/)]
+
+### Miscellaneous 🎲
+- *consonance-ACE* From Discord to Harmony: Decomposed Consonance-Based Training for Improved Audio Chord Estimation [[Paper](https://arxiv.org/pdf/2509.01588)] [[GitHub](https://github.com/andreamust/consonance-ACE)]
