@@ -129,6 +129,14 @@ Curated list of groundbreaking music generation research.
 
 - FMA: A Dataset For Music Analysis [[GitHub]](https://github.com/mdeff/fma) [100K tracks]
 
+### Music Agent 🤖
+
+- ComposerX: Multi-Agent Symbolic Music Composition with LLMs [2024] [[Paper](https://arxiv.org/abs/2404.18081)]
+
+- AutoMV: An Automatic Multi-Agent System for Music Video Generation [2025] [[Paper](https://arxiv.org/abs/2512.12196)] [[GitHub](https://github.com/multimodal-art-projection/AutoMV)]
+
+- MuseAgent-1: Interactive Grounded Multimodal Understanding of Music Scores and Performance Audio [2026] [[Paper](https://arxiv.org/pdf/2601.11968)]
+
 ### Website & Products 🌐
 - **Lamucal** - Real-time audio to chords, lyrics, beat, and melody with Hybrid-Net [[Web](https://lamucal.com/)] [[GitHub](https://github.com/DoMusic/Hybrid-Net)]
 - **Dango.ai** - Any instruments separation and vocals extraction [[Web](https://tuanziai.com/)]
