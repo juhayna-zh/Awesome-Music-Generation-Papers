@@ -21,6 +21,8 @@ Curated list of groundbreaking music generation research.
 
 ### Lyrics-to-Song Generation 📜➡🎶
 
+- HeartMuLa: A Family of Open Sourced Music Foundation Models [2026] [PKU] [[Paper](https://arxiv.org/pdf/2601.10547)] [[GitHub](https://github.com/HeartMuLa/heartlib)]
+
 - Muse: Towards Reproducible Long-Form Song Generation with Fine-Grained Style Control [2026] [FudanNLP] [[Paper](https://arxiv.org/abs/2601.03973)] [[GitHub](https://github.com/yuhui1038/Muse)]
 
 - LeVo: High-Quality Song Generation with Multi-Preference Alignment [2025] [Tencent] [[Paper](https://arxiv.org/pdf/2506.07520)] [[GitHub](https://github.com/tencent-ailab/songgeneration/)] [[Demo](https://levo-demo.github.io/)]
